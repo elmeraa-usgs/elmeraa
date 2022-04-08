@@ -6,7 +6,7 @@
 
 😄  **Pronouns**: she/her/hers
 
-Hi there! I'm a second year Masters student at the Bren School of Environmental Science & Management, where I'm specializing in Energy & Climate. I'm interested in using data science tools to analyzing complex environmental issues and develop solutions. Broadly, my research interests include land-atmosphere interactions, forest ecology, and climatology. I am working as an Arnhold Graduate Fellow with the Environmental Markets Solutions Lab [(emLab)](https://emlab.ucsb.edu/about/our-team/elmera-azadpour) utilizing remote sensing and land cover projection data to track changes in land use relating to agricultural abandonment in the U.S. 
+Hi there! I'm a second year Masters student at the Bren School of Environmental Science & Management, where I'm specializing in Energy & Climate. I'm interested in using data science tools to analyze complex environmental issues and develop solutions. Broadly, my research interests include land-atmosphere interactions, forest ecology, and climatology. I am working as an Arnhold Graduate Fellow with the Environmental Markets Solutions Lab [(emLab)](https://emlab.ucsb.edu/about/our-team/elmera-azadpour) utilizing remote sensing and land cover projection data to track changes in land use relating to agricultural abandonment in the U.S. 
 
 
 <!--
