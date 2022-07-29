@@ -6,7 +6,7 @@
 
 😄  **Pronouns**: she/her/hers
 
-Hi there! I'm a second year Masters student at the Bren School of Environmental Science & Management, where I'm specializing in Energy & Climate. I'm interested in using data science tools to analyze complex environmental issues and develop solutions. Broadly, my research interests include land-atmosphere interactions, forest ecology, and climatology. I am working as an Arnhold Graduate Fellow with the Environmental Markets Solutions Lab [(emLab)](https://emlab.ucsb.edu/about/our-team/elmera-azadpour) utilizing remote sensing and land cover projection data to track changes in land use relating to agricultural abandonment in the U.S. 
+Hi there! My name is Elmera (El-mee-rah). I graduated with my Mastesr of Environmental Science and Management from Bren School at UC, Santa Barbara, where I specalized in energy & climate with a focus in data science. I obtanied my Bachelors of Science from the University of Utah in Environmental Biology. I'm interested in using data science tools to analyze complex environmental issues and develop solutions. Broadly, my research interests include land-atmosphere interactions, forest ecology, and climatology. I previously worked as an Arnhold Graduate Fellow with the Environmental Markets Solutions Lab (emLab) utilizing remote sensing and land cover projection data to track changes in land use relating to agricultural abandonment in the U.S. Currently, I am a data scientist and data vizualation specalist with the United States Geological Survey (USGS). 
 
 
 <!--
