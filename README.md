@@ -1,6 +1,6 @@
 ### Elmera Azadpour
 
-🖥  **Personal Website**: https://elmeraa.github.io/ea_website/
+🖥  **Personal Website**: elmeraa.github.io
 
 🐦  **Twitter**: [@EAzadpour](https://twitter.com/EAzadpour)
 
